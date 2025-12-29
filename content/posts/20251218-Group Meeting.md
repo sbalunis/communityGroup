@@ -1,8 +1,8 @@
-+++
-date = '2025-12-28T19:46:04-05:00'
-draft = false
-title = 'Community Group December 18th 2025'
-+++
+---
+date: 2025-12-28T19:46:04-05:00
+draft: false
+title: Community Group December 18th 2025
+---
 
 ## Information
 
@@ -17,6 +17,8 @@ The Balunis Household
 
 **Sermon Recording**  
 [The Holiness of God](https://www.youtube.com/live/RUp1E-NRDGU?si=WeTGz_EUyMXfE9wY)
+
+{{< youtube RUp1E-NRDGU>}}
 
 ## Passage
 
