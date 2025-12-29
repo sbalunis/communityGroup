@@ -12,7 +12,6 @@ December 18th, 2025
 **Dinner Theme**  
 Breakfast for Dinner
 
-
 **Location**  
 The Balunis Household
 
@@ -39,7 +38,7 @@ the whole earth is full of his glory!"
 > *Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.*
 
 2. Take some time and walk through the four names of the Messiah: Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. Briefly discuss what each name means and what they teach us about teh Messiah.
-3. Which one of these names grabs your attention the most in the current season of life? Why does it impact you most deeply in teh present? Feel free to share about a current struggle you are facing and hwo the MEssiah is meeting you in that place of hardship.
+3. Which one of these names grabs your attention the most in the current season of life? Why does it impact you most deeply in the present? Feel free to share about a current struggle you are facing and how the Messiah is meeting you in that place of hardship.
 4. Discuss the zeal of the Lord in Isaiah 9:7. How does it affect you to know that God has a white-hot passion for your salvation and the salvation of peoples in your life who do not know him?
 
 > Of the increase of his government and of peace  
