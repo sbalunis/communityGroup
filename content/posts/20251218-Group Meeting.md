@@ -4,7 +4,9 @@ draft: false
 title: Community Group December 18th 2025
 ---
 
-## Information
+{{< youtube RUp1E-NRDGU>}}
+
+{{< collapse title="**Meeting Information**" >}}
 
 **Date**  
 December 18th, 2025
@@ -18,9 +20,9 @@ The Balunis Household
 **Sermon Recording**  
 [The Holiness of God](https://www.youtube.com/live/RUp1E-NRDGU?si=WeTGz_EUyMXfE9wY)
 
-{{< youtube RUp1E-NRDGU>}}
+{{< /collapse >}}
 
-## Passage
+{{< collapse title="**Passage**" >}}
 
 **Isaiah 6:1-7**
 
@@ -32,6 +34,8 @@ the whole earth is full of his glory!"
 [4] And the foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke. [5] And I said: “Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the Lord of hosts!”
 
 [6] Then one of the seraphim flew to me, having in his hand a burning coal that he had taken with tongs from the altar. [7] And he touched my mouth and said: “Behold, this has touched your lips; your guilt is taken away, and your sin atoned for.”
+
+{{< /collapse >}}
 
 ## Sermon Questions
 
