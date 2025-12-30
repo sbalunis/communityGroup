@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Plans on Perpetual Grace GC</title>
+    <link>http://localhost:1313/plans/</link>
+    <description>Recent content in Plans on Perpetual Grace GC</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Dec 2025 19:46:04 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/plans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meal Plans December 18th 2025</title>
+      <link>http://localhost:1313/plans/20251218-meal-plan/</link>
+      <pubDate>Sun, 28 Dec 2025 19:46:04 -0500</pubDate>
+      <guid>http://localhost:1313/plans/20251218-meal-plan/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;br&gt;
+December 18th, 2025&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dinner Theme&lt;/strong&gt;&lt;br&gt;
+Breakfast for Dinner&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pancakes&lt;/li&gt;
+&lt;li&gt;Fruit&lt;/li&gt;
+&lt;li&gt;Sausage / Egg Casserole&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;&lt;br&gt;
+The Balunis Household&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

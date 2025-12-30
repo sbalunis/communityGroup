@@ -2,3 +2,24 @@ baseURL: https://communitygroup.sbalunis.workers.dev/
 languageCode: en-us
 title: Perpetual Grace GC
 theme: PaperMod
+params: 
+  ShowToc: true
+  homeInfoParams:
+    Title: "Perpetual Grace Community Group"
+    subtitle: "A community group of Smyrna First Baptist Church"
+    content: |
+      Welcome to the Perpetual Grace Community Group! This is a place for us to post the discussion questions, sermon recordings, and dinner plans for the upcoming meeting(s).
+      We meet Thursday Nights at 6:30(ish). If you are interested in joining us, please reach out to Saindon for more information.
+  mainSections:
+    - "questions"
+    - "plans"
+menu:
+  main:
+    - identifier: questions
+      name: discussion questions
+      url: /questions/
+      weight: 10
+    - identifier: plans
+      name: meal plans
+      url: /plans/
+      weight: 20

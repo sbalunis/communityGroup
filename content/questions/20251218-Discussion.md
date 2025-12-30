@@ -4,27 +4,11 @@ draft: false
 title: Community Group December 18th 2025
 ---
 
-{{< youtube RUp1E-NRDGU>}}
+**Meal Plan**
+[Meal and Meeting Plan]({{< relref "plans/20251218-Meal Plan.md" >}})
 
-{{< collapse title="**Meeting Information**" >}}
-
-**Date**  
-December 18th, 2025
-
-**Dinner Theme**  
-Breakfast for Dinner
-
-**Location**  
-The Balunis Household
-
-**Sermon Recording**  
-[The Holiness of God](https://www.youtube.com/live/RUp1E-NRDGU?si=WeTGz_EUyMXfE9wY)
-
-{{< /collapse >}}
-
-{{< collapse title="**Passage**" >}}
-
-**Isaiah 6:1-7**
+## Sermon Passage
+{{< collapse summary="**Isaiah 6:1-7**" >}}
 
 [1] In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple. [2] Above him stood the seraphim. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew. [3] And one called to another and said:
 
@@ -37,7 +21,7 @@ the whole earth is full of his glory!"
 
 {{< /collapse >}}
 
-## Sermon Questions
+## Discussion Questions
 
 ### Question 1
 
