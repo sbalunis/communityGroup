@@ -3,7 +3,6 @@ languageCode: en-us
 title: Perpetual Grace GC
 theme: PaperMod
 params: 
-  ShowToc: true
   homeInfoParams:
     Title: "Perpetual Grace Community Group"
     subtitle: "A community group of Smyrna First Baptist Church"

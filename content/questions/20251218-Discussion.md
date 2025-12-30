@@ -1,23 +1,24 @@
 ---
 date: 2025-12-28T19:46:04-05:00
 draft: false
-title: Community Group December 18th 2025
+title: Discussion Questions - 12/18/25
 ---
 
-**Meal Plan**
-[Meal and Meeting Plan]({{< relref "plans/20251218-Meal Plan.md" >}})
+**[Meal and Meeting Plan ↗]({{< relref "plans/20251218-Meal Plan.md" >}})**
 
 ## Sermon Passage
 {{< collapse summary="**Isaiah 6:1-7**" >}}
 
-[1] In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple. [2] Above him stood the seraphim. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew. [3] And one called to another and said:
-
-“Holy, holy, holy is the Lord of hosts;  
+> [1] In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple. [2] Above him stood the seraphim. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew. [3] And one called to another and said:
+>
+> “Holy, holy, holy is the Lord of hosts;  
 the whole earth is full of his glory!"
-
-[4] And the foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke. [5] And I said: “Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the Lord of hosts!”
-
-[6] Then one of the seraphim flew to me, having in his hand a burning coal that he had taken with tongs from the altar. [7] And he touched my mouth and said: “Behold, this has touched your lips; your guilt is taken away, and your sin atoned for.”
+> 
+> [4] And the foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke. [5] And I said: “Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the Lord of hosts!”
+> 
+> [6] Then one of the seraphim flew to me, having in his hand a burning coal that he had taken with tongs from the altar. [7] And he touched my mouth and said: “Behold, this has touched your lips; your guilt is taken away, and your sin atoned for.”
+>
+> *English Standard Version (ESV)*
 
 {{< /collapse >}}
 
@@ -27,7 +28,11 @@ the whole earth is full of his glory!"
 
 In what way(s) do we see how deductive our culture's influence on us can be as Christmas time? Are we conformed by the world, or by God's Word (Rom 12:2)?
 
+{{< collapse summary="**Romans 12:2**">}}
+
 > *Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.*
+
+{{< /collapse >}}
 
 ### Question 2
 
@@ -52,12 +57,14 @@ Discuss the zeal of the Lord in Isaiah 9:7.
 
 How does it affect you to know that God has a white-hot passion for your salvation and the salvation of peoples in your life who do not know him?
 
-#### Isaiah 9:7
+{{< collapse summary="**Isaiah 9:7**">}}
 
 > Of the increase of his government and of peace  
-    there will be no end,  
-on the throne of David and over his kingdom,  
-    to establish it and to uphold it  
-with justice and with righteousness  
-    from this time forth and forevermore.  
-The zeal of the Lord of hosts will do this.  
+>     there will be no end,  
+> on the throne of David and over his kingdom,  
+>     to establish it and to uphold it  
+> with justice and with righteousness  
+>     from this time forth and forevermore.  
+> The zeal of the Lord of hosts will do this.  
+
+{{< /collapse >}}
