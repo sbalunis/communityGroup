@@ -18,21 +18,18 @@ bin-release/
 *.apk
 
 # Hugo
-/public
+/public/
 
 # Backup Files
 *.markdown~
 *.md~
-
-# Apache
-.htpasswd
 
 # Logs
 logs
 *.log
 
 # Runtime data
-pids
+*.pids
 *.pid
 *.seed
 
