@@ -12,13 +12,18 @@ params:
   mainSections:
     - "questions"
     - "plans"
+    - "announcements"
 menu:
   main:
     - identifier: questions
       name: discussion questions
       url: /questions/
-      weight: 10
+      weight: 30
     - identifier: plans
       name: meal plans
       url: /plans/
+      weight: 20
+    - identifier: announcements
+      name: announcements
+      url: /announcements/
       weight: 20
