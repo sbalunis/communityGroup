@@ -9,7 +9,7 @@ title: Discussion Questions - 1/8/26
 <!-- I have not updated any of these questions or verses. -->
 
 ## Sermon Passage
-{{< collapse summary="**Isaiah 6:1-7**" >}}
+{{< collapse summary="**Revelation 21:1-8**" >}}
 
 > [1] In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple. [2] Above him stood the seraphim. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew. [3] And one called to another and said:
 >
