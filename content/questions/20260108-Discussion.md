@@ -6,6 +6,8 @@ title: Discussion Questions - 1/8/26
 
 **[Meal and Meeting Plan ↗]({{< relref "plans/20260108-Meal Plan.md" >}})**
 
+**[Pastors.ai Sermon Page ↗]({{< relref "plans/20260108-Meal Plan.md" >}})**
+
 <!-- I have not updated any of these questions or verses. -->
 
 ## Sermon Passage
