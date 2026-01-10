@@ -3,7 +3,7 @@ date: {{ .Date }}
 draft: true
 title: {{ replace .File.ContentBaseName "-" " " | title }}
 ---
-**[Meal and Meeting Plan ↗]({{< relref "<!-- UPDATE ME -->" >}})**
+**[Meal and Meeting Plan ↗]({{< relref "<!-- UPDATE ME   plans/20260108-Meal Plan.md-->" >}})**
 
 **[Pastors.ai Sermon Page ↗](<!-- UPDATE ME -->)**
 

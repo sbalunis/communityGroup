@@ -4,7 +4,7 @@ draft: true
 title: {{ replace .File.ContentBaseName "-" " " | title }}
 ---
 
-**[Discussion Questions ↗]({{< relref "<!-- UPDATE ME -->" >}})**
+**[Discussion Questions ↗]({{< relref "<!-- UPDATE ME questions/20260115-discussions.md -->" >}})**
 
 **Location**  
 The [FAMILY NAME] Household
