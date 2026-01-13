@@ -1,7 +1,7 @@
 ---
-date: 2025-12-28T19:46:04-05:00
+date: 2025-12-18T19:30:00-05:00
 draft: false
-title: Discussion Questions - 12/18/25
+title: Week 4 | Discussion Questions - 12/18/25
 ---
 
 **[Meal and Meeting Plan ↗]({{< relref "plans/20251218-Meal Plan.md" >}})**
