@@ -3,7 +3,7 @@
 date: 2026-01-22T19:30:00-05:00
 
 # Change to false before publishing
-draft: true
+draft: false
 
 # title: Week # | Discussion Questions
 title: Week 7 | Discussion Questions
