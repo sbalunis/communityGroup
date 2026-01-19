@@ -8,4 +8,4 @@ Create new Meal Plan Content
 `hugo new content -k meal-plan content/plans/20260115-meal-plan.md`
 
 Create new Discussion Questions Content  
-`hugo new content -k discussions content/questions/20260115-discussions.`
+`hugo new content -k discussions content/questions/20260115-discussions.md`

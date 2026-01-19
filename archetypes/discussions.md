@@ -1,6 +1,11 @@
 ---
+# date: YYYY-MM-DDT19:30:00-05:00
 date: {{ .Date }}
+
+# Change to false before publishing
 draft: true
+
+# title: Week # | Discussion Questions
 title: {{ replace .File.ContentBaseName "-" " " | title }}
 ---
 **[Meal and Meeting Plan ↗]({{< relref "<!-- UPDATE ME   plans/20260108-Meal Plan.md-->" >}})**
