@@ -1,6 +1,11 @@
 ---
+# date: YYYY-MM-DDT18:30:00-05:00
 date: {{ .Date }}
+
+# Change to False before publishing
 draft: true
+
+# title: Week # | Meal Plan & Location
 title: {{ replace .File.ContentBaseName "-" " " | title }}
 ---
 
