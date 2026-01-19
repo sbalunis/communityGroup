@@ -40,7 +40,7 @@ Practical invitations close the assembly: to engage in church life via membershi
 
 ## Discussion Questions
 
-*Since Monday is a holiday, I have used alternative questions to give content for all groups. If Jeff sends out his own questions, I will try to update the page. 
+*Since Monday is a holiday, I have used alternative questions to give content for all groups. If Jeff sends out his own questions, I will try to update the page.*
 
 ### Observation Questions
 
