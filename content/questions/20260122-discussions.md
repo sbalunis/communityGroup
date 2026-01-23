@@ -8,7 +8,6 @@ draft: false
 # title: Week # | Discussion Questions
 title: Week 7 | Discussion Questions
 ---
-**[Meal and Meeting Plan ↗]({{< relref "plans/20260122-meal-plan.md" >}})**
 
 **[Pastors.ai Sermon Page ↗](https://pastors.ai/sermon/saints-grace-identity-christ/)**
 

@@ -4,8 +4,6 @@ draft: false
 title: Week 5 | Discussion Questions
 ---
 
-**[Meal and Meeting Plan ↗]({{< relref "plans/20260108-Meal Plan.md" >}})**
-
 **[Pastors.ai Sermon Page ↗](https://pastors.ai/sermon/revelation-21-hope-god-new/)**
 
 <!-- I have not updated any of these questions or verses. -->

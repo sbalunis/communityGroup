@@ -4,8 +4,6 @@ draft: false
 title: Week 4 | Discussion Questions
 ---
 
-**[Meal and Meeting Plan ↗]({{< relref "plans/20251218-Meal Plan.md" >}})**
-
 ## Sermon Passage
 {{< collapse summary="**Isaiah 6:1-7**" >}}
 
