@@ -1,5 +1,5 @@
 ---
-date: 2026-01-15T19:30:00-05:00
+date: 2026-01-11T18:00:00-05:00
 draft: false
 title: Week 6 | Discussion Questions
 ---

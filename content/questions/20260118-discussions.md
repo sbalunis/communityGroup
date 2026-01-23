@@ -1,6 +1,6 @@
 ---
 # date: YYYY-MM-DDT19:30:00-05:00
-date: 2026-01-22T19:30:00-05:00
+date: 2026-01-18T18:00:00-05:00
 
 # Change to false before publishing
 draft: false

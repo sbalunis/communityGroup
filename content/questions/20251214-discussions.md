@@ -1,5 +1,5 @@
 ---
-date: 2025-12-18T19:30:00-05:00
+date: 2025-12-14T18:00:00-05:00
 draft: false
 title: Week 4 | Discussion Questions
 ---

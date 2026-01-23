@@ -1,5 +1,5 @@
 ---
-date: 2026-01-08T19:30:00-05:00
+date: 2026-01-04T18:00:00-05:00
 draft: false
 title: Week 5 | Discussion Questions
 ---
