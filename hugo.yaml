@@ -18,11 +18,7 @@ menu:
       name: discussion questions
       url: /questions/
       weight: 30
-    - identifier: plans
-      name: meal plans
-      url: /plans/
-      weight: 20
     - identifier: announcements
       name: announcements
       url: /announcements/
-      weight: 20
+      weight: 10
