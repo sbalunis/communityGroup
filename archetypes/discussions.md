@@ -8,7 +8,7 @@ draft: true
 # title: Week # | Discussion Questions
 title: {{ replace .File.ContentBaseName "-" " " | title }}
 ---
-**[Meal and Meeting Plan ↗]({{< relref "<!-- UPDATE ME   plans/20260108-Meal Plan.md-->" >}})**
+<!-- Update the Pastors.ai Link (if one is provided). The link does not require quotes around it. -->
 
 **[Pastors.ai Sermon Page ↗](<!-- UPDATE ME -->)**
 
