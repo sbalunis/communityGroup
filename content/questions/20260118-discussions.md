@@ -1,6 +1,6 @@
 ---
 # date: YYYY-MM-DDT19:30:00-05:00
-date: 2026-01-22T19:30:00-05:00
+date: 2026-01-18T18:00:00-05:00
 
 # Change to false before publishing
 draft: false
@@ -8,7 +8,6 @@ draft: false
 # title: Week # | Discussion Questions
 title: Week 7 | Discussion Questions
 ---
-**[Meal and Meeting Plan ↗]({{< relref "plans/20260122-meal-plan.md" >}})**
 
 **[Pastors.ai Sermon Page ↗](https://pastors.ai/sermon/saints-grace-identity-christ/)**
 

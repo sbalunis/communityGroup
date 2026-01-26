@@ -1,9 +1,8 @@
 ---
-date: 2026-01-15T19:30:00-05:00
+date: 2026-01-11T18:00:00-05:00
 draft: false
 title: Week 6 | Discussion Questions
 ---
-**[Meal and Meeting Plan ↗]({{< relref "plans/20260115-meal-plan.md" >}})**
 
 Because we are using the free plan for pastors.ai, I am unable to process the video due to it being over the maximum allowed length. These notes were instead created with Gemini.
 
