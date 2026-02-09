@@ -12,6 +12,12 @@ params:
   mainSections:
     - "questions"
     - "announcements"
+markup:
+  goldmark:
+    extensions:
+      extras:
+        superscript:
+          enable: true
 menu:
   main:
     - identifier: questions
