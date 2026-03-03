@@ -28,7 +28,7 @@ The conclusion presses for introspection and response. Believers must name speci
 
 {{< /collapse >}}
 
-{{< collapse summary="**Revelation 21:1-8**" >}}
+{{< collapse summary="**1 Corinthians 2:1-5**" >}}
 
 > ^1^ And I, when I came to you, brothers, did not come proclaiming to you the testimony of God with lofty speech or wisdom. ^2^ For I decided to know nothing among you except Jesus Christ and him crucified. ^3^ And I was with you in weakness and in fear and much trembling, ^4^ and my speech and my message were not in plausible words of wisdom, but in demonstration of the Spirit and of power, ^5^ so that your faith might not rest in the wisdom of men but in the power of God.
 >
