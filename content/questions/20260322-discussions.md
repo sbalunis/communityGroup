@@ -20,13 +20,17 @@ cover:
 ---
 <!-- Update the Pastors.ai Link (if one is provided). The link does not require quotes around it. -->
 
-**[Pastors.ai Sermon Page ↗](<!-- UPDATE ME -->)**
+**[Pastors.ai Sermon Page ↗](https://pastors.ai/sermon/psalm-118-christ-crushed-rejected-worship/)**
 
 ## Sermon
 
 {{< collapse summary="**Sermon Summary**">}}
 
-<!-- Insert sermon summary from Pastors.ai here. -->
+Psalm 118 rings with thanksgiving for rescue and with prophetic echoes that point beyond Israel’s history to the cross. The psalm celebrates God’s deliverance from mortal peril, portraying enemies that surround like bees, sudden rescue from near death, and a sustained commitment to praise. The lyrics served Israel in moments of national salvation and royal rescue; they image God’s strength as a living song and describe a discipline that teaches but spares death. Those Old Testament scenes carry forward into the New Testament, where the psalm’s language finds twenty-three echoes and a climactic fulfillment in Christ’s passion.
+
+The text moves from national deliverance to Christological fulfillment, arguing that God’s unstoppable goodness culminates in the death and resurrection of Jesus. The psalm’s claim that God “disciplined me severely, but he has not given me over to death” acquires sharper meaning in the cross, where the sinless one bears divine punishment on behalf of sinners. The portrait of a crushed sufferer, rejected by the builders, and then exalted as the cornerstone frames Jesus as both the innocent bearer of wrath and the foundation of a new people. The psalm also contains messianic rites of binding the sacrifice to the altar—an image that aligns with Jesus being bound, beaten, and carried to the place of slaughter.
+
+Worship and triumph bookend the suffering: cries for deliverance turn into acclamations—“Blessed is he who comes in the name of the Lord”—as the rejected stone becomes the sure foundation. The narrative stresses substitutionary atonement: the punishment humanity deserved fell on One who had no sin, and through that willing endurance peace and healing became available. The psalm concludes with personal response—thanksgiving, confession of the Lord as God, and a call to live in light of that finished work—inviting a faith that rests on the risen cornerstone and leaves life’s lesser securities behind.
 
 {{< /collapse >}}
 
