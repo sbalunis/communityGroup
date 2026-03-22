@@ -1,12 +1,22 @@
 ---
-# date: YYYY-MM-DDT19:30:00-05:00
-date: {{ .Date }}
+{{ $now := now }}
+{{ $dow := $now.Weekday }}
+{{ $sunday := $now.AddDate 0 0 (mul $dow -1) }}
+{{ $dateValue := print ($sunday | dateFormat "2006-01-02") "T19:30:00" }}
+date: {{ $dateValue }}
 
 # Change to false before publishing
 draft: true
 
 # title: Week # | Discussion Questions
-title: {{ replace .File.ContentBaseName "-" " " | title }}
+title: "Week # | Discussion Questions"
+
+cover:
+    image: "" # e.g., "img/hugo_logo_wide.svg" or "https://example.com/image.jpg"
+    alt: "harvest" # Optional: Add alt text for accessibility
+    hidden: false # Optional: Set to true to hide the image on the post page
+    relative: false # Optional: Set to true if using page bundles and relative paths
+
 ---
 <!-- Update the Pastors.ai Link (if one is provided). The link does not require quotes around it. -->
 
@@ -20,7 +30,7 @@ title: {{ replace .File.ContentBaseName "-" " " | title }}
 
 {{< /collapse >}}
 
-{{< collapse summary="**Revelation 21:1-8**" >}}
+{{< collapse summary="**  <!--SERMON REF. -->  **" >}}
 
 > <!-- Insert the sermon passage here -->
 >

@@ -1,5 +1,6 @@
 baseURL: https://communitygroup.sbalunis.workers.dev/
 languageCode: en-us
+timezone: America/New_York
 title: Perpetual Grace GC
 theme: PaperMod
 params: 
