@@ -6,7 +6,7 @@
 date: 2026-03-22T19:30:00
 
 # Change to false before publishing
-draft: true
+draft: false
 
 # title: Week # | Discussion Questions
 title: "Week 16 | Discussion Questions"
