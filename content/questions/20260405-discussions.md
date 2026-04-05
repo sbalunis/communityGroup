@@ -1,8 +1,4 @@
 ---
-
-
-
-
 date: 2026-04-05T19:30:00
 
 # Change to false before publishing
@@ -41,12 +37,14 @@ Friday, on Al Mohler’s Briefing, he discussed the problematic conclusion of re
 * Why is it true that you cannot have Christianity if all you have are a Christian people?
 * What does this chapter say in response to this heretical conclusion?
 
+[1 Corinthians 15](https://www.biblegateway.com/passage/?search=1%20Cor%2015&version=ESV)
+
 ### Question 2
 
-Discuss the premise of the sermon, the Greek words translated “saw” show the different responses people have to the empty tomb (bleppo, theoreo, and eidon).
-* Bleppo: a quick glance
-* Theoreo: a long gaze
-* Eidon: a look that contains understanding; this look leads a person to perceive the truth
+Discuss the premise of the sermon, the Greek words translated “saw” show the different responses people have to the empty tomb (blepó, theóreó, and eidó).
+* *Blepó (βλέπω):* a quick glance
+* *Theóreó  (θεωρέω):* a long gaze
+* *Eidó (εἴδω):* a look that contains understanding; this look leads a person to perceive the truth
 
 ### Question 3
 
@@ -61,7 +59,7 @@ Consider Peter’s response to the empty tomb.
 
 ### Question 5
 
-Consider John’s response to the empty tomb. Take a few minutes to reflect on your own story:
+Consider John’s response to the empty tomb and reflect on your own story:
 
 * When did you first truly look at the truth claims of Jesus and believe?
 * When were you born again?
