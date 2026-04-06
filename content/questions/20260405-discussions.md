@@ -15,11 +15,19 @@ cover:
 
 ---
 
+Celebrate the empty tomb with us! Like Mary, Peter, and John, we each respond differently to Jesus’ resurrection. This week, let’s explore where we stand—respectful questioning, searching investigation, or full belief—and discover the life that comes from trusting the risen Christ.
+
+**[Pastors.ai Sermon Page ↗](https://pastors.ai/sermon/empty-tomb-believe-live/)**
+
 ## Sermon
 
 {{< collapse summary="**Sermon Summary**">}}
 
+He is risen indeed. The empty egg story opens a contrast between ordinary emptiness—which disappoints—and the joyful emptiness of the tomb, which changes everything. The empty tomb anchors the claim that resurrection is not optional; without it, preaching, worship, and faith collapse. John 20 unfolds three distinct reactions at the tomb: Mary Magdalene’s quick, grieving glance that assumes theft; Peter’s sustained inspection that finds evidence but draws no conclusion; and the beloved disciple’s sight that becomes belief and life. Reading the Greek behind the repeated verb “saw” exposes those varied responses and clarifies how people encounter the risen Christ.
 
+Mary’s devotion explains her presence and her mistake. Her glance (bleppo) reflects a heart still tied to loss and a mind that reaches for plausible, natural explanations. Peter’s theoreo—an intense gaze and investigation—reveals curiosity and earnest searching, yet investigation without surrender leaves a person stuck outside the reality of resurrection. John’s orao moves beyond seeing into perceiving and knowing; belief dawns in him immediately and becomes the hinge of eternal life. John’s belief models how faith, born from encountering the risen Lord, issues in a new beginning rather than merely intellectual assent.
+
+The sermon answers common alternatives to resurrection—wrong tomb, body theft, swoon theory—by appealing to contemporaneous witnesses, the character and fates of the apostles, and the historical improbability of a mass deception. The resurrection stands as the decisive act that rescues humanity, not merely an inspiring story. Finally, the empty tomb functions as an invitation: respectful doubt and careful investigation must lead to a living trust. Belief here means confessing sin, trusting that God raised Christ, and turning life toward obedience and worship. Eternal life starts not at birth or ritual but at the moment of believing the risen Lord. The narrative presses for a clear response—move from respectful curiosity or unresolved inquiry into conviction that Jesus lives—and thereby experience the rescue that Easter proclaims.
 
 {{< /collapse >}}
 
