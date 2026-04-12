@@ -54,9 +54,9 @@ Pastor Jeff connected the service of Paul and Apollos with the service with our 
 <!-- Question #1 text -->
 ### Question 3
 
-Pastor Jeff explained that we must starve the pride that exists without our own hearts. Paul was not concerned at all with getting the credit for his work in Corinth. However, Pastor Jeff reminds us that this is something that we must rely on God for every day.
+Pastor Jeff explained that we must starve the pride that exists within our own hearts. Paul was not concerned at all with getting the credit for his work in Corinth. However, Pastor Jeff reminds us that starving our pride is something that we must rely on God for every day.
 * What are some ways we can foster humility in our day-to-day lives?
-* How does our time in God's word help us starve oru pride and grow in humility?
+* How does our time in God's word help us starve our pride and grow in humility?
 
 <!-- Question #1 text -->
 
@@ -64,7 +64,7 @@ Pastor Jeff explained that we must starve the pride that exists without our own 
 
 Paul doesn't concern himself with the results of his work nor does he compare his work to Apollos or anyone else. He readily accepts that he planted and Apollos watered, but the results weren't up to him. He seems totally satisfied in his obedience to God.
 * Do you find it easier to be satisfied in your obedience? Or in the results of your work? Why?
-* How can be protect our hearts from unhealthy comparison? Or to boasting?
+* How can we protect our hearts from unhealthy comparison? Or from boasting?
 
 ### Question 5
 
