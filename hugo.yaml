@@ -1,15 +1,20 @@
 baseURL: https://communitygroup.sbalunis.workers.dev/
 languageCode: en-us
 timezone: America/New_York
-title: Perpetual Grace GC
+title: Perpetual Grace Little Group
 theme: PaperMod
 params: 
   homeInfoParams:
-    Title: "Perpetual Grace Community Group"
-    subtitle: "A community group of Smyrna First Baptist Church"
+    Title: "Perpetual Grace Little Group"
+    subtitle: "A small group ministry of Smyrna First Baptist Church"
     content: |
-      Welcome to the Perpetual Grace Community Group! This is a place for us to post the discussion questions, sermon recordings, and dinner plans for the upcoming meeting(s).
-      We meet Thursday Nights at 6:30(ish). If you are interested in joining us, please reach out to Saindon for more information.
+      Welcome to the Perpetual Grace Little Group!
+
+      We’re so glad you’re here. This space is where we’ll share weekly discussion questions and important small group announcements. Our hope is that this group helps us stay encouraged, informed, and rooted in community throughout the week.
+
+      We meet on Thursday nights at 6:30(ish) for a potluck and discussion. We would love for you to join us! If you’re interested, please reach out to Saindon or Natalie for more information. If this group isn’t the right fit for your schedule, we’d also be happy to connect you with one of our other small groups.
+
+      Looking forward to gathering together soon!
   mainSections:
     - "questions"
     - "announcements"
@@ -28,4 +33,8 @@ menu:
     - identifier: announcements
       name: announcements
       url: /announcements/
+      weight: 10
+    - identifier: fwg archive
+      name: fwg archive
+      url: /fwg-archive/
       weight: 10
