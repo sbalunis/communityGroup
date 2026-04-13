@@ -15,19 +15,28 @@ cover:
     relative: false # Optional: Set to true if using page bundles and relative paths
 
 ---
-<!-- Update the Pastors.ai Link (if one is provided). The link does not require quotes around it. -->
+We examine the theological foundation of humility and service within a local church context. Using the biblical metaphor of agricultural labor—planting, watering, and divine growth—we discuss that spiritual outcomes are sovereignly determined by God, thereby liberating believers from the pressure of ego-driven ministry
 
-**[Pastors.ai Sermon Page ↗](<!-- UPDATE ME -->)**
+<!-- **[Pastors.ai Sermon Page ↗]()** -->
 
 ## Sermon
 
 {{< collapse summary="**Sermon Summary**">}}
 
-<!-- Insert sermon summary from Pastors.ai here. -->
+In this sermon, Dr. Jeff Pennington explores the theme of self-forgetfulness and humility in Christian ministry, based on 1 Corinthians 3:5-9. He emphasizes that individuals are merely servants of God and that spiritual growth is entirely dependent on the Lord rather than human effort.
+
+**Key Takeaways:**
+
+* **Starving Pride:** Dr. Pennington warns against ego-centered living, noting that keeping oneself at the center of life leads to emptiness, fragility, and exhaustion. He recommends Tim Keller's The Freedom of Self-Forgetfulness as a resource for learning to think of oneself less.
+* **Humility in Service:** Using the metaphor of planting and watering, he explains that leaders like Paul and Apollos are just "chore-oriented servants." True maturity involves shifting the focus from individual recognition to the collective work of the church.
+* **Healthy Dependency:** The sermon highlights the necessity of interdependence within the church. Just as a planter and a waterer are both essential for a crop to grow, church members must recognize that their different roles complement one another, and both management and ministry are vital for a healthy congregation.
+* **Reward of Faithfulness:** A central point is that God rewards faithfulness rather than success. Since God is the one who brings the growth, members are called to steward their time, talents, and finances faithfully, trusting that the ultimate reward comes from Christ.
+
+Dr. Pennington also reflects on the legacy of Ken Travis, a long-time member of Smyrna First Baptist Church, as an example of a humble servant who lived his life to make Jesus famous rather than seeking personal attention.
 
 {{< /collapse >}}
 
-{{< collapse summary="**1 Corintians 3:5-9**" >}}
+{{< collapse summary="**1 Corinthians 3:5-9**" >}}
 
 > ^5^ What then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each. ^6^ I planted, Apollos watered, but God gave the growth. ^7^ So neither he who plants nor he who waters is anything, but only God who gives the growth. ^8^ He who plants and he who waters are one, and each will receive his wages according to his labor. ^9^ For we are God's fellow workers. You are God's field, God's building.
 >
@@ -43,22 +52,17 @@ Tim Keller teaches that humility is not thinking less of yourself but thinking o
 * What are your thoughts on Tim Keller's distinction?
 * Have you found this to be true in your own life? How so?
 
-<!-- Question #1 text -->
-
 ### Question 2
 
 Pastor Jeff connected the service of Paul and Apollos with the service with our church chores. There isn't always anything fun or attractive about chores, but they still must be done.
 * How do you feel about your church chore(s)?
 * How have you cultivated a sense of humility in your church service?
 
-<!-- Question #1 text -->
 ### Question 3
 
 Pastor Jeff explained that we must starve the pride that exists within our own hearts. Paul was not concerned at all with getting the credit for his work in Corinth. However, Pastor Jeff reminds us that starving our pride is something that we must rely on God for every day.
 * What are some ways we can foster humility in our day-to-day lives?
 * How does our time in God's word help us starve our pride and grow in humility?
-
-<!-- Question #1 text -->
 
 ### Question 4
 
@@ -80,5 +84,3 @@ Lastly, Pastor Jeff teaches that we must let Jesus' commendation be our ultimate
 
 ## Note
 These questions were modified from the original FWG questions to work better with our group. You can find the original questions here: [fwg-archive](/fwg-archive/20260412-fwg-archive)
-
-<!-- Use the same collapse language as shown above for specific verse references or cross references contained in the questions. -->
