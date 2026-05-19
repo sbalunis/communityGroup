@@ -1,6 +1,6 @@
 ---
 
-date: 2026-04-12T19:30:00
+date: 2026-05-03T19:30:00
 
 # Change to false before publishing
 draft: false
@@ -10,7 +10,7 @@ title: "Week #22 | FWG Questions"
 
 ---
 
-# FWG: April 12, 2026
+# FWG: May 3, 2026
 
 ## Saints Becoming Saints: Building our Church with Care
 1 Corinthians 3:10-17
