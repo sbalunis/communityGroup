@@ -9,8 +9,8 @@ draft: false
 title: "Week #40 | Discussion Questions"
 
 cover:
-    image: "https://images.unsplash.com/photo-1749261017336-eabcb6d9014a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" # e.g., "img/hugo_logo_wide.svg" or "https://example.com/image.jpg"
-    alt: "fightin-birds" # Optional: Add alt text for accessibility
+    image: "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" # e.g., "img/hugo_logo_wide.svg" or "https://example.com/image.jpg"
+    alt: "misty-sunrise" # Optional: Add alt text for accessibility
     hidden: false # Optional: Set to true to hide the image on the post page
     relative: false # Optional: Set to true if using page bundles and relative paths
 
