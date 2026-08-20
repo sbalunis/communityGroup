@@ -71,10 +71,10 @@ Pastor Jeff reminded us that God is the giver of every good gift, even when He g
 
 {{< collapse summary="**Matt. 6:8 / James 1:17**" >}}
 
-> **Matt. 6:8**
+> **Matt. 6:8**  
 > Do not be like them, for your Father knows what you need before you ask him.
 >
-> **James 1:17**
+> **James 1:17**  
 > Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.
 >
 > *English Standard Version (ESV)*
