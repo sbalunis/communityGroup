@@ -17,7 +17,7 @@ cover:
 ---
 <!-- Update the Pastors.ai Link (if one is provided). The link does not require quotes around it. -->
 
-{{< collapse summary="**1 Corinthians 7:36-40**" >}}
+{{< collapse summary="**1 Corinthians 8**" >}}
 
 > ^1^ Now concerning food offered to idols: we know that “all of us possess knowledge.” This “knowledge” puffs up, but love builds up. ^2^ If anyone imagines that he knows something, he does not yet know as he ought to know. ^3^ But if anyone loves God, he is known by God.
 > 
@@ -58,7 +58,7 @@ Christian artist Shai Linne that right orthodoxy (doctrine) leads to right doxol
 
 {{< collapse summary="**1 Cor. 8:4-6**" >}}
 
-> 
+> ^4^ Therefore, as to the eating of food offered to idols, we know that “an idol has no real existence,” and that “there is no God but one.” ^5^ For although there may be so-called gods in heaven or on earth—as indeed there are many “gods” and many “lords”— ^6^ yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist.
 >
 > *English Standard Version (ESV)*
 
