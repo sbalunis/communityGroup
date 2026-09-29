@@ -14,3 +14,6 @@ Commits against the master branch will be rebuilt and deploy automatically. Comm
 
 Create new Discussion Questions Content  
 `hugo new content -k discussions content/questions/20260115-discussions.md`
+
+Serve the website locally (localhost:1313)
+`hugo serve`
