@@ -11,9 +11,9 @@ main() {
 
   DART_SASS_VERSION=1.97.1
   GO_VERSION=1.25.5
-  HUGO_VERSION=0.153.2
-  NODE_VERSION=24.12.0
-
+  HUGO_VERSION=0.159.1
+  NODE_VERSION=26.7
+  
   export TZ=Europe/Oslo
 
   # Install Dart Sass
